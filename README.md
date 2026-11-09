@@ -1,16 +1,23 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=pulse&color=1E90FF&height=120&section=header"/>
 
-<!--
-**islainelima13-spec/islainelima13-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Oi,+eu+sou+a+Islaine;Atuo+como+Analista+de+Glosa;Em+transi%C3%A7%C3%A3o+de+carreira+para+a+%C3%A1rea+de+Tecnologia;Atualmente+estudando+Ci%C3%AAncia+de+Dados+na+EBAC;Focada+em+trazer+insights+e+dados+para+a+sa%C3%BAde;Seja+bem-vindo!" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+### Minhas ferramentas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **No dia a dia:**
+ 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)&nbsp;
+
+- **Em estudo:**
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+
+**Estatística**
+
+### Contato:
+
+[LinkedIn](https://www.linkedin.com/in/islainelima13)
